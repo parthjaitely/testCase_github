@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>It is my first test case in katalon</description>
+   <name>testCase_github</name>
+   <tag>login functionality</tag>
+   <comment></comment>
+   <testCaseGuid>21ff4e8b-0e36-4592-8390-e11096a14d30</testCaseGuid>
+</TestCaseEntity>
